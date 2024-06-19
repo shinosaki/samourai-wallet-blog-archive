@@ -8,7 +8,7 @@ Samourai Wallet Blog と OXT Research Blog のアーカイブ
 | `blog.samourai.is` | 2024/06/20 | Retrieved from the mirror due to the takedown of `blog.samourai.com` |
 
 ## How to View
-Download the `warc.gz` file from the Releases Page and view it with a WARC viewer.
+Download the `warc.gz` file from the [Releases Page](https://github.com/shinosaki/samourai-wallet-blog-archive/releases) and view it with a WARC viewer.
 
 I recommend using the online WARC viewer [REPLAY WEBPAGE](https://replayweb.page/).
 
