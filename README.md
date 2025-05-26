@@ -4,6 +4,7 @@ Samourai Wallet Blog と OXT Research Blog のアーカイブ
 
 ## Source
 | Host name | Fetched at | Description |
+| --- | --- | --- |
 | `oxtresearch.com`  | 2024/05/04 |  |
 | `blog.samourai.is` | 2024/06/20 | Retrieved from the mirror due to the takedown of `blog.samourai.com` |
 
